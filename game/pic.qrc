@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>blue.png</file>
+        <file>blue1.png</file>
+        <file>blue2.png</file>
+        <file>blue3.png</file>
+        <file>chocolate.png</file>
+        <file>green.png</file>
+        <file>green1.png</file>
+        <file>green2.png</file>
+        <file>green3.png</file>
+        <file>orange.png</file>
+        <file>orange1.png</file>
+        <file>orange2.png</file>
+        <file>orange3.png</file>
+        <file>purple.png</file>
+        <file>purple1.png</file>
+        <file>purple2.png</file>
+        <file>purple3.png</file>
+        <file>red.png</file>
+        <file>red1.png</file>
+        <file>red2.png</file>
+        <file>red3.png</file>
+        <file>yellow.png</file>
+        <file>yellow1.png</file>
+        <file>yellow2.png</file>
+        <file>yellow3.png</file>
+        <file>Gold Star.png</file>
+        <file>Silver-Star.png</file>
+    </qresource>
+</RCC>
